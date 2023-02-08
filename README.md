@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sérgio a Frontend Developer.<img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  /></h2> 
+## Hi there 👋! I'm Sérgio a Frontend Developer.       [![Linkedin Badge](https://img.shields.io/badge/-Sergio%20Costa-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiocscosta/)](https://www.linkedin.com/in/sergiocscosta/)
 
 Passioned for gaming, technology and digital arts. <br>
 I'm driven by the curiosity to understand the different levels of software development,<br> coding, new features and cross-browser testing.
