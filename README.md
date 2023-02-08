@@ -28,9 +28,3 @@ These are tools that I use/used for myself or at work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/S/S/blob/output/snake.svg" alt="Snake animation" />
-
-###
