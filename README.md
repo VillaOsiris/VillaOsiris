@@ -2,9 +2,6 @@
 
 Passioned for gaming, technology and digital arts. <br>
 I'm driven by the curiosity to understand the different levels of software development,<br> coding, new features and cross-browser testing.
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## My Tech Stack
 These are tools that I use/used for myself or at work.
